@@ -1,0 +1,18 @@
+-Type cast:
+	static int a = 4;
+	double x = (double) a;
+
+- return this.birthYear == birthYear; ( better than using if statements )
+- instance variables that will be used to hold dta of objects
+- final variables that after their initial assignment cannot be modified
+- class Classname {}
+
+  public class Main {}
+
+-----
+
+- trim(): erase blankspaces at the beginning and end of the string
+- printf("%s", string)
+- length();
+- for(int i = 0; i < array.length; i++){};
+
